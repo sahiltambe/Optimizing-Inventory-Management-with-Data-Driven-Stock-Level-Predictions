@@ -43,3 +43,4 @@ This project aims to analyze Gala Groceries' supply chain data to optimize inven
 ## Contact
 
 For any questions or inquiries, please contact me at [sahiltambe1996@gmail.com](mailto:sahiltambe1996@gmail.com).
+
