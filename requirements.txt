@@ -3,3 +3,12 @@ matplotlib
 seaborn
 numpy
 display
+scikit-learn
+catboost
+xgboost
+Flask
+dill
+pickle
+sys
+
+# -e .
